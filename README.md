@@ -12,7 +12,7 @@
 - scipy.stats: для статистичного аналізу.
 - Power BI: для створення інтерактивних візуалізацій даних.
 
-[**Дашборд:**]([URL](https://app.powerbi.com/view?r=eyJrIjoiYTkxNDdhMjYtYWM5YS00OTk3LWExOGEtMDg3YzAyODg5NmIwIiwidCI6IjFkODBkNTgxLThlNmEtNGFmNi05MjIyLTk2MTBiMWJlYTRlMSIsImMiOjl9) 
+[**Дашборд:**](https://app.powerbi.com/view?r=eyJrIjoiYTkxNDdhMjYtYWM5YS00OTk3LWExOGEtMDg3YzAyODg5NmIwIiwidCI6IjFkODBkNTgxLThlNmEtNGFmNi05MjIyLTk2MTBiMWJlYTRlMSIsImMiOjl9)
 
 **Інсайти:**
 1. Середня оцінена заробітна плата не впливає значною мірою на кредитний рейтинг клієнтів.
