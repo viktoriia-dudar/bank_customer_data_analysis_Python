@@ -6,6 +6,7 @@
 
 **Використані інструменти:**
 - Python
+
 **Бібліотеки:**  
 - pandas: обробка табличних даних
 - matplotlib, seaborn: візуалізація
@@ -14,7 +15,8 @@
 - warnings: обробка попереджень
 
 **Інструменти візуалізації:**
-- Power BI: для створення інтерактивних візуалізацій даних.
+- Power BI: створення інтерактивного дашборду
+
 [**Дашборд**](https://app.powerbi.com/view?r=eyJrIjoiYTkxNDdhMjYtYWM5YS00OTk3LWExOGEtMDg3YzAyODg5NmIwIiwidCI6IjFkODBkNTgxLThlNmEtNGFmNi05MjIyLTk2MTBiMWJlYTRlMSIsImMiOjl9)
 
 **Інсайти:**
